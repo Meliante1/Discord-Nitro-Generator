@@ -4,7 +4,7 @@
 
 # Discord Nitro Generator
 
-<img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="6" />
+<img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="4" />
 
 ### Table of Contents
 - [Description](#description)
@@ -73,5 +73,5 @@ Make sure to check option 3 (**Info**)
 - Discord: sem#4744
 - Github profile: https://github.com/semmoolenschot
 
-<img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="6" />
+<img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="4" />
 
