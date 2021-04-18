@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request a Feature</a>
 
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="2" />
