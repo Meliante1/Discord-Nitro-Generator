@@ -67,5 +67,5 @@ Make sure to check option 3 (**Info**)
 - Discord: sem#4744
 - Github profile: https://github.com/semmoolenschot
 
-<img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="100" height="100" />
+<img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="10" height="1000" />
 
