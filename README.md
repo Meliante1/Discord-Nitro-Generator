@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://c.tenor.com/2tCXUxyB2LgAAAAj/wumpus-discord.gif" alt="Discord Nitro Generator" align="center">
+  <img width="200" src="https://c.tenor.com/2tCXUxyB2LgAAAAj/wumpus-discord.gif">
 </p>
 
 <p align="center">
