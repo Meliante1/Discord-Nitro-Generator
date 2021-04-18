@@ -1,6 +1,5 @@
 
 <p align="center">
-   
    # Discord Nitro Generator
 </p>
 
