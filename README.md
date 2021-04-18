@@ -74,7 +74,7 @@ Make sure to check option 3 (**Info**)
 
 ---
 
-#### Roadmap
+### Roadmap
 
 - Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
 
