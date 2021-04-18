@@ -24,7 +24,7 @@
 - Using the tool you can create tons of 19 digit codes that will be put in *codes.txt*
 - After creating all the codes it will combind them into a URL and check if they're valid using the Discord API. (bruteforce)
 
-It will stop checking once it finds a valid code in *codes.txt*
+- It will stop checking once it finds a valid code in *codes.txt*
 
 ---
 
@@ -35,7 +35,9 @@ Once done you will get a menu with multiple options such as *generate, check or 
 
 Also make sure to have all modules installed by using ``pip3 install -r requirements.txt``
 
+This tool is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
+
 ---
 
-See the [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues (or request a feature).
 
