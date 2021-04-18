@@ -68,8 +68,6 @@ Make sure to check option 3 (**Info**)
 
 - Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
 
----
-
 ## Contact
 
 - Discord: sem#4744
