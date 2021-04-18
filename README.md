@@ -1,5 +1,7 @@
 # Discord Nitro Generator
 
+<img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="6" />
+
 ### Table of Contents
 - [Description](#description)
 - [How to use](#how-to-use)
