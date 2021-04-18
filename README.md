@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/emojis/803157482275995679.gif?v=1"/>
+  <img src="https://tenor.com/view/discord-cursed-nitro-wumpus-flying-gif-17339924"/>
   
 </p>
 
