@@ -1,5 +1,5 @@
 <p align="center">
-2.  <img width="200" src="https://cdn.discordapp.com/emojis/803157483500732416.gif?v=1" alt="Discord Nitro Generator">
+2.  <alt="Discord Nitro Generator">
 3.</p>
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="6" />
