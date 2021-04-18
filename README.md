@@ -2,7 +2,9 @@
   <img src="https://media.tenor.com/images/ccfb991442e429841b68584fdd7b9581/tenor.gif"/>
 </p>
 
-# Discord Nitro Generator
+<p align="center">
+  # Discord
+</p>
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="4" />
 
