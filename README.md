@@ -78,13 +78,13 @@ Make sure to check option 3 (**Info**)
 - Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
 
 ### Important
-- **NOTE: Im not responsible for any type of damage thats been caused using this tool**
+- **Im not responsible for any type of damage thats been caused using this tool**
 
 ## Contact
 
 - <img width="16" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png"> Discord: sem#4744
 - <img width="16" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Github profile: https://github.com/semmoolenschot
-- <img width="16" src="https://succesvolinbalans.nl/wp-content/uploads/2019/11/Instagram-logo.jpg"> Instagram: https://github.com/semmoolenschot
+- <img width="16" src="https://succesvolinbalans.nl/wp-content/uploads/2019/11/Instagram-logo.jpg"> Instagram: https://instagram.com/sem280504
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="2" />
 
