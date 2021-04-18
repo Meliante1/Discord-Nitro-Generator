@@ -9,7 +9,7 @@
 
 ## Description
 
-#### What is Nitro
+#### Nitro
 
 Discord Nitro is the premium subscription tier on the most popular gaming chat service in the world. It comes with global access to custom emojis from all the channels you're part of, a custom **Discord** number tag, animated avatars, and server boosts for your favorite communities.
 
