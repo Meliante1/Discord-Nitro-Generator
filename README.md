@@ -44,3 +44,10 @@
 
 - Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
 
+---
+
+## Contact
+
+Discord: sem#4744
+Github profile: https://github.com/semmoolenschot
+
