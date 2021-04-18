@@ -79,7 +79,7 @@ Make sure to check option 3 (**Info**)
 
 ## Contact
 
-<img width="16" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png"> Discord: sem#4744
+<img width="13" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png"> Discord: sem#4744
 - Github profile: https://github.com/semmoolenschot
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="2" />
