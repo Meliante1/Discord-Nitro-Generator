@@ -81,7 +81,6 @@ Make sure to check option 3 (**Info**)
 # Important
 - Use this at your own risk. You're stealing nitro of people who actually bought the subscription
 - **Im not responsible for any damage thats been caused using this tool**
-- **I simply just coded it**
 
 ## Contact
 
