@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://media.tenor.com/images/ccfb991442e429841b68584fdd7b9581/tenor.gif"/>
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo" align="center">
 </p>
 
 <p align="center">
