@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://3.bp.blogspot.com/-TFOwcFJKD2M/XB6bLZZFvoI/AAAAAAAAArQ/NedhZKh9r38rN3PwyJtfu9MBY5EsNXZCgCEwYBhgL/s200/discordbadge.gif" alt="Sublime's custom image"/>
+  <img src="https://cdn.discordapp.com/emojis/803157482275995679.gif?v=1" alt="Sublime's custom image"/>
 </p>
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="6" />
