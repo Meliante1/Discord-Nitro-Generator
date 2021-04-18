@@ -6,6 +6,19 @@
   Discord Nitro Generator
 </p>
 
+  <h3 align="center">Discord Nitro Generator and Checker</h3>
+
+  <p align="center">
+    A discord nitro generator and checker for all your nitro needs
+    <br />
+    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
+
+
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="2" />
 
 ### Table of Contents
