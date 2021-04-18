@@ -7,12 +7,12 @@
   <p align="center">
     A discord nitro generator and checker
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/tree/main/generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
 
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="2" />
