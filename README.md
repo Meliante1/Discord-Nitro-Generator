@@ -32,7 +32,7 @@
 
 <img width="572" alt="Screenshot 2021-04-18 at 19 06 39" src="https://user-images.githubusercontent.com/78478073/115154085-573c7900-a079-11eb-9c96-18ecddd5fffa.png">
 
-**It creates and checks Discord Nitro codes**
+**Create and check Discord Nitro codes**
 
 #### Features
 - Generate codes and put them into *codes.txt*
