@@ -37,5 +37,5 @@ Also make sure to have all modules installed by using ``pip3 install -r requirem
 
 ---
 
-You can 
+See the [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) for a list of proposed features (and known issues).
 
