@@ -48,6 +48,6 @@
 
 ## Contact
 
-Discord: sem#4744
-Github profile: https://github.com/semmoolenschot
+- Discord: sem#4744
+- Github profile: https://github.com/semmoolenschot
 
