@@ -36,7 +36,7 @@
 
 #### Features
 - Generate codes and put them into *codes.txt*
-- Check the validation of the generated codes
+- Check the **validation** of the generated codes
 - Reset *codes.txt*. I recommend doing this after each run.
 
 Make sure to check option 3 (info)
