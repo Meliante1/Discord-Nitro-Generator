@@ -1,6 +1,6 @@
 <p align="center">
-2.  <"Discord Nitro Generator">
-3.</p>
+  <"Discord Nitro Generator">
+</p>
 
 <img src="https://cdn.discordapp.com/attachments/796083237222481942/831489181275914240/1line.gif" width="1000" height="6" />
 
