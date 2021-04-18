@@ -21,6 +21,7 @@
 - [Description](#description)
 - [How to use](#how-to-use)
 - [Contact](#contact)
+- [Important](#important)
 
 ---
 
@@ -76,6 +77,10 @@ Make sure to check option 3 (**Info**)
 #### Roadmap
 
 - Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
+
+# Important
+- Use this at your own risk. You're stealing nitro of people who actually bought the subscription
+- **Im not responsible for any damage thats been caused using this tool**
 
 ## Contact
 
