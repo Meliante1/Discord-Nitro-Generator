@@ -11,19 +11,13 @@
 
 #### Nitro
 
-Discord Nitro is the premium subscription tier on the most popular gaming chat service in the world. It comes with global access to custom emojis from all the channels you're part of, a custom **Discord** number tag, animated avatars, and server boosts for your favorite communities.
+- Discord Nitro is the premium subscription tier on the most popular gaming chat service in the world. It comes with global access to custom emojis from all the channels you're part of, a custom **Discord** number tag, animated avatars, and server boosts for your favorite communities.
 
---
+- Discord also has the option to gift the Nitro subscription. Once you paid you get a shareable link that will allow other users to claim the subscription. You simply provide this link to the person you want to give Nitro to.
 
-Discord also has the option to gift the Nitro subscription. Once you paid you get a shareable link that will allow other users to claim the subscription. You simply provide this link to the person you want to give Nitro to.
+- A Discord Nitro gift link will look like this for an example: *https://discord.com/gifts/drOs7uHeX8YcnyXtVMo* (19 digits)
 
---
-
-A Discord Nitro gift link will look like this for an example: *https://discord.com/gifts/drOs7uHeX8YcnyXtVMo* (19 digits)
-
---
-
-Keep in mind that all codes created by Discord will expire after 48 hours if they haven't been claimed yet.
+- Keep in mind that all codes created by Discord will expire after 48 hours if they haven't been claimed yet.
 
 #### Technologies
 
