@@ -39,5 +39,5 @@ This tool is coded in **python 3.9** which you can download [here](https://www.p
 
 ---
 
-See the [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues (or request a feature).
+Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
 
