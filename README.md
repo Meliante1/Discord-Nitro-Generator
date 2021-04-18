@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="# Material Bread logo" align="center">
+  <img width="200" src="https://i.imgur.com/UrlzcEf.gif" alt="Discord Nitro Generator" align="center">
 </p>
 
 <p align="center">
