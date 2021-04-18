@@ -30,14 +30,17 @@
 
 ## How to use
 
-Run the ``main.py`` file using ``python3 main.py``
-Once done you will get a menu with multiple options such as *generate, check or reset*
+- Run the ``main.py`` file using ``python3 main.py``
+- Or use ``git clone https://github.com/semmoolenschot/Discord-Nitro-generator``
+- Once done you will get a menu with multiple options such as *generate, check or reset*
 
-Also make sure to have all modules installed by using ``pip3 install -r requirements.txt``
+- Also make sure to have all modules installed by using ``pip3 install -r requirements.txt``
 
-This tool is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
+- This tool is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
 ---
 
-Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
+#### Roadmap
+
+- Check out [open issues](https://github.com/semmoolenschot/Discord-Nitro-generator/issues) to find known issues, or request a feature.
 
