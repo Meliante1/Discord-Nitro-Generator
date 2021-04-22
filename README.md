@@ -1,6 +1,3 @@
-<p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="https://c.tenor.com/2tCXUxyB2LgAAAAj/wumpus-discord.gif">
-</p>
 
   <h3 align="center">Discord Nitro Generator and Checker</h3>
 
