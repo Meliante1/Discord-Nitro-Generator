@@ -61,7 +61,6 @@ Make sure to check option 4 (**Info**)
 ## How to use
 
 - Run the ``main.py`` file using ``python3 main.py``
-- Or use ``git clone https://github.com/semmoolenschot/Discord-Nitro-generator``
 - Once done you will get a menu with multiple options such as *generate, check or reset*
 
 - Also make sure to have all modules installed by using ``pip3 install -r requirements.txt``
