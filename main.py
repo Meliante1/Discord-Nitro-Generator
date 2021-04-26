@@ -108,7 +108,7 @@ class LinkGen:
 [{self.HEADER}+{self.ENDC}] I recommend using reset if no valid code is found after a run, otherwise it will keep looking for the same code{self.ENDC}
 
 [{self.HEADER}+{self.ENDC}] Note that every Nitro code created by Discord expires in 48 hours{self.ENDC}
-[{self.HEADER}+{self.ENDC}] Checking will stop when a valid code is found, so the valid code stays on the bottom{self.ENDC}
+[{self.HEADER}+{self.ENDC}] Checking will stop when a valid code is found, so the valid code stays at the bottom{self.ENDC}
 
 [{self.HEADER}+{self.ENDC}] Just make sure to not close the application{self.ENDC}
 [{self.HEADER}+{self.ENDC}] That being said, enjoy :){self.ENDC}
