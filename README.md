@@ -65,7 +65,7 @@ Make sure to check option 4 (**Info**)
 
 - Also make sure to have all modules installed by using ``pip3 install -r requirements.txt``
 
-- This tool is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
+- This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
 ---
 
