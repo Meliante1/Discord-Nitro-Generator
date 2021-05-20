@@ -53,7 +53,7 @@
 - Check the **validation** of the generated codes
 - Reset *codes.txt*. I recommend doing this after each run.
 
-Make sure to check option 4 (**Info**)
+- Make sure to check option 4 (**Info**) before using the tool
 
 
 ---
