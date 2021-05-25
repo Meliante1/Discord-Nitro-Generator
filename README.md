@@ -19,9 +19,8 @@
 - [How to use](#how-to-use)
 - [Contact](#contact)
 
----
 
-## Description
+# Description
 
 ### Nitro
 
