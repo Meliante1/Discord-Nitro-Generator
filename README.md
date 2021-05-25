@@ -4,7 +4,7 @@
   <p align="center">
     A discord nitro generator and checker
     <br />
-    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a>
     <br />
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
