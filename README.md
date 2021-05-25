@@ -35,7 +35,7 @@
 ### Technologies
 
 - Using the tool you can create tons of 19 digit codes that will be put into *codes.txt*
-- After creating all the codes it will combind them into a URL and check if they're valid using the Discord API. (bruteforce)
+- After creating all the codes it will combind them into a URL and check if they're valid using the Discord API.
 
 - It will stop checking once it finds a valid code in *codes.txt*
 
