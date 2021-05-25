@@ -57,7 +57,7 @@
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
 ### Important
-- **I'm not responsible for any type of damage thats been caused using my code**
+- **I'm not responsible for any type of damage thats been caused by using my code**
 
 ### Contact
 
