@@ -50,8 +50,6 @@
 - Check the **validation** of the generated codes
 - Reset *codes.txt*. I recommend doing this after each run.
 
-Make sure to check option 4 (**Info**) before using the tool
-
 ### How to use
 
 - Run the ``main.py`` file using ``python3 main.py``
