@@ -1,14 +1,14 @@
 <h1 align="center">Discord Nitro Generator</h3>
 
   <p align="center">
-    Create a QR code for your BTC address or URL
+    Generate Discord Nitro codes and check the validation
     <br />
-    <a href="https://github.com/semmoolenschot/QR-Code"><strong>Explore»</strong></a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/semmoolenschot/QR-Code/issues">Report Bug</a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/semmoolenschot/QR-Code/issues">Request Feature</a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
 
 
 ---
