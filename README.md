@@ -1,5 +1,5 @@
 
-  <h3 align="center">Instagram Comment Booster</h3>
+  <h3 align="center">Discord Nitro generator</h3>
 
   <p align="center">
     Boost your Instagram commen
