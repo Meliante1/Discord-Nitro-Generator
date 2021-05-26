@@ -1,8 +1,8 @@
 
-  <h3 align="center">Discord Nitro Generator and Checker</h3>
+  <h3 align="center">Instagram Comment Booster</h3>
 
   <p align="center">
-    A discord nitro generator and checker
+    Boost your Instagram commen
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a>
     <br />
