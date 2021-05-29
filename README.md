@@ -11,7 +11,7 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
 
 ```diff
-- Please leave a ⭐ to support this project
++ Please leave a ⭐ to support this project | Also check out the [latest version](www.google.nl)
 ```
 
 ---
