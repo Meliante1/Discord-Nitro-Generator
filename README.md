@@ -20,7 +20,7 @@
 - [How to use](#how-to-use)
 - [Contact](#contact)
       
-| ----------| Original | 1.0.1 |
+| ⠀ Original | 1.0.1 |
 | --------- | ----- | ----- |
 | **Value** | **1** | **5** |
 | **Value** | **1** | **5** |
