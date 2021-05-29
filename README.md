@@ -28,6 +28,8 @@
 | **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
 | **Philips Hue status** | ⠀ | ✅ | ✅ |
       
+- Dont forget to leave a star ⭐
+      
 
 
 # Description
