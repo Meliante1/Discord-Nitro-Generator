@@ -9,11 +9,8 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
-
-
-<p align="center">
-  <b>Check out the latest version www.google.nl:</b><br>
-
+  
+  <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Latest version!</a>
 
 ---
 
