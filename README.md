@@ -11,7 +11,8 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
 
 
-Check out the [latest version](www.google.nl)
+<p align="center">
+  <b>Check out the [latest version](www.google.nl):</b><br>
 
 
 ---
