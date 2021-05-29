@@ -6,7 +6,7 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a
     <br />
       ·
-      <a href="www.google.nl"><strong> Explore»</strong></a>
+      <a href="www.google.nl"><strong> Latest version»</strong></a>
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
