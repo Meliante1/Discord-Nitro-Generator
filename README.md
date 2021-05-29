@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <b>Check out the [latest version](www.google.nl):</b><br>
+  <b>Check out the latest version www.google.nl:</b><br>
 
 
 ---
