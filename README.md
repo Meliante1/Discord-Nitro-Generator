@@ -3,14 +3,15 @@
   <p align="center">
     Generate Discord Nitro codes and check the validation
     <br />
-    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a>
+    <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a
+      ·
+      <a href="www.google.nl"><strong>Explore»</strong></a>
     <br />
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
   
-  <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Latest version!</a>
 
 ---
 
