@@ -4,7 +4,6 @@
     Generate Discord Nitro codes and check the validation
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a
-      ·
     <a href="www.google.nl"><strong> Explore»</strong></a>
     <br />
     <br />
