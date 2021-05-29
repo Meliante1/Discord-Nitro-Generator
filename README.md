@@ -22,8 +22,10 @@
       
 |⠀| Original | 1.0.1 |
 | --------- | ----- | ----- |
-| **Generate** | **✅** | **✅** |
-| **Check** | **✅** | **✅** |
+| **Generate** | ✅ | ✅ |
+| **Check** | ✅ | ✅ |
+| **Check & Generate
+  at the same time** | ✅ | ✅ |
 
 
 # Description
