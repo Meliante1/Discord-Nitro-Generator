@@ -20,12 +20,14 @@
 - [How to use](#how-to-use)
 - [Contact](#contact)
       
-|⠀| Original | 1.0.1 |
-| --------- | ----- | ----- |
-| **Generate** | ✅ | ✅ |
-| **Check** | ✅ | ✅ |
-| **Check & Generate at the same time** | ⠀ | ✅ |
-| **Auto claim (PATCHED)** | ⠀ | ❌ |
+|⠀| Original | 1.0.1 | 1.0.2 |
+| --------- | ----- | ----- | ----- |
+| **Generate** | ✅ | ✅ | ✅ |
+| **Check** | ✅ | ✅ | ✅ |
+| **Check & Generate at the same time** | ⠀ | ✅ | ✅ |
+| **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
+| **Philips Hue status** | ⠀ | ✅ | ✅ |
+      
 
 
 # Description
