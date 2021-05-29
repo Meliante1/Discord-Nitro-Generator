@@ -11,7 +11,6 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
 
 [![Github All Releases](https://img.shields.io/github/downloads/semmoolenschot/Discord-Nitro-Generator/total.svg)]()
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=semmoolenschot)](https://github.com/semmoolenschot/Discord-Nitro-Generator)
 
 ---
 
