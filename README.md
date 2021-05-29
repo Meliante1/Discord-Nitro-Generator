@@ -24,7 +24,8 @@
 | --------- | ----- | ----- |
 | **Generate** | ✅ | ✅ |
 | **Check** | ✅ | ✅ |
-| **Check & Generate at the same time** | ✅ | ✅ |
+| **Check & Generate at the same time** | ⠀ | ✅ |
+| **Auto claim (PATCHED)** | ⠀ | ❌ |
 
 
 # Description
