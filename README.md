@@ -19,6 +19,10 @@
 - [Description](#description)
 - [How to use](#how-to-use)
 - [Contact](#contact)
+      
+| Original | 1.0.1 |
+| -------- | -- | -- |
+| **Value** | **1** | **5** |
 
 
 # Description
