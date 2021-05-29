@@ -10,7 +10,9 @@
     ·
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
 
-[![Github All Releases](https://img.shields.io/github/downloads/semmoolenschot/Discord-Nitro-Generator/total.svg)]()
+```diff
+- text in red
+```
 
 ---
 
