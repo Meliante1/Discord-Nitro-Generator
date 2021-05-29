@@ -11,7 +11,7 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
 
 ```diff
-- text in red
+- h
 ```
 
 ---
