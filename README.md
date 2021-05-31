@@ -24,7 +24,7 @@
 | --------- | ----- | ----- | ----- |
 | **Generate** | ✅ | ✅ | ✅ |
 | **Check** | ✅ | ✅ | ✅ |
-| **Check & Generate at the same time** | ⠀ | ✅ | ✅ | - Currently the fastest and most practical
+| **Check & Generate at the same time** | ⠀ | ✅ | ✅ |
 | **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
 | **Philips Hue status** | ⠀ | ⠀ | ✅ |
 
