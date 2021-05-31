@@ -26,9 +26,9 @@
 | **Check** | ✅ | ✅ | ✅ |
 | **Check & Generate at the same time** | ⠀ | ✅ | ✅ |
 | **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
-| **Philips Hue status** | ⠀ | ✅ | ✅ |
+| **Philips Hue status** | ⠀ | ⠀ | ✅ |
       
-- Dont forget to leave a star ⭐
+- Don't forget to leave a star ⭐
       
 
 
