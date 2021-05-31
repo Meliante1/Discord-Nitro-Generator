@@ -31,7 +31,8 @@
 - [Original](https://github.com/semmoolenschot/Discord-Nitro-Generator)
 - [1.0.1](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.1) (recommended using)
 - [1.0.2 (Hue)](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.2)
-- Don't forget to leave a star ⭐
+
+      Don't forget to leave a star ⭐
       
 
 
