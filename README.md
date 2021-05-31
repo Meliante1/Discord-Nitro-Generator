@@ -28,9 +28,9 @@
 | **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
 | **Philips Hue status** | ⠀ | ⠀ | ✅ |
 
-- a
-- a
-- a
+- [Original](https://github.com/semmoolenschot/Discord-Nitro-Generator)
+- [1.0.1]()
+- [1.0.2]
 - Don't forget to leave a star ⭐
       
 
