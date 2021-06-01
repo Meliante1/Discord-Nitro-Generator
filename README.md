@@ -80,5 +80,5 @@ Don't forget to leave a star ⭐
 
 - <img width="16" src="https://i.redd.it/5zec9qw4ppy61.png"> [sem#4744](https://discord.com/)
 - <img width="16" src="https://www.monalisaelburg.nl/media/Bladzy/Productset/productset/image/1/g/i/github.jpg"> [Github](https://github.com/semmoolenschot)
-
+- <img width="16" src="https://demaasdijk-events.nl/wp-content/uploads/2019/06/instagram-png-instagram-png-logo-1455.png"> [Instagram](https://instagram.com/semmoolenschot)
 
