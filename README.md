@@ -25,7 +25,7 @@
     </li>
     <li><a href="#features">Features</a></li>
     <li><a href="#python">Python version</a></li>
-    <li><a href="#important">No responsibility disclaimer</a></li>
+    <li><a href="#important">Disclaimer</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -92,7 +92,7 @@ Please check out [versions](#versions) for more information/updates on features
 ### Python
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
-### Important
+### Disclaimer
 - **I'm not responsible for any type of damage thats been caused by using my code**
 
 ### Contact
