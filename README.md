@@ -88,7 +88,7 @@ Don't forget to leave a star ⭐
 - Automatically claim the valid code (**patched**)
 
 ### How to use
-> Windows
+> Windows <img width="16" src="https://www.mijncomputerhulp.nl/wp-content/uploads/2019/05/microsoft-windows-22-logo-png-transparent.png">
       
       
 - Run the ``main.py`` file using ``python3 main.py``
