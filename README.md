@@ -24,7 +24,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   </li>
-      <a href="#description">Description</a>
+      <li><a href="#description">Description</a>
       <ul>
         <li><a href="#discord-nitro">Discord Nitro</a></li>
         <li><a href="#how-it-works">How it works</a></li>
