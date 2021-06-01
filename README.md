@@ -33,8 +33,8 @@
     <li>
       <a href="#description">Description</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#discord-nitro">Discord Nitro</a></li>
+        <li><a href="#how-it-works">How it works</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
