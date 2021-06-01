@@ -24,7 +24,6 @@
 <details open="open">
   <summary>Table of Contents</summary>
     <li>
-    </li>
     <li>
       <a href="#description">Description</a>
       <ul>
