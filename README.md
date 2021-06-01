@@ -100,10 +100,6 @@ Please check out [versions](#versions) for more information/updates on features
 - Use this at your own risk
 ```
 
-<div class="text-white bg-red mb-2">
-  .text-white on .bg-red
-</div>
-
 ### Contact
 
 - <img width="16" src="https://i.redd.it/5zec9qw4ppy61.png"> [sem#4744](https://discord.com/)
