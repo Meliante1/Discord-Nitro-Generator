@@ -12,7 +12,9 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
-     <a>Testr</a>
+   <p align="center">
+    Generate Discord Nitro codes and check the validation
+    <br />
   
 
 ---
