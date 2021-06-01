@@ -64,7 +64,7 @@ Don't forget to leave a star ⭐
 
 # Description
 
-### Nitro
+### Discord Nitro
 
 - Discord Nitro is the premium subscription tier on the most popular gaming chat service in the world. It comes with global access to custom emojis from all the channels you're part of, a custom **Discord** number tag, animated avatars, and server boosts for your favorite communities.
 
@@ -74,7 +74,7 @@ Don't forget to leave a star ⭐
 
 - Keep in mind that all codes created by Discord will expire after 48 hours if they haven't been claimed yet.
 
-### Technologies
+### How it works
 
 - Using the tool you can create tons of 19 digit codes that will be put into *codes.txt*
 - After creating all the codes, it will combine them into a URL and check if they are valid using the Discord API.
