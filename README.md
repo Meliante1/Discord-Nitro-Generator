@@ -85,6 +85,7 @@ Don't forget to leave a star ⭐
 - Generate possible Nitro codes
 - Check the validation of the generated codes
 - Send valid codes in a Discord webhook
+- Automatically claim the valid code (**patched**)
 
 ### How to use
 
