@@ -25,7 +25,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      </ul>
     </li>
     <li>
       <a href="#description">Description</a>
