@@ -88,7 +88,7 @@ Don't forget to leave a star ⭐
 - Send valid codes in a Discord webhook
 - Automatically claim the valid code (**patched**)
 
-Please check out #versions for more information on features
+Please check out [versions](#versions) for more information/updates on features
 
 ### How to use
 > Windows ⠀<img width="16" src="https://www.mijncomputerhulp.nl/wp-content/uploads/2019/05/microsoft-windows-22-logo-png-transparent.png">
