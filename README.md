@@ -82,8 +82,8 @@ Don't forget to leave a star ⭐
 <img width="572" alt="Screenshot 2021-04-18 at 19 06 39" src="https://user-images.githubusercontent.com/78478073/115154085-573c7900-a079-11eb-9c96-18ecddd5fffa.png">
 
 ### Features
-- Generate codes and put them into *codes.txt*
-- Check the **validation** of the generated codes
+- Generate & check codes
+- Send valid codes to a Discord webhook
 - Reset *codes.txt*. I recommend doing this after each run.
 
 ### How to use
