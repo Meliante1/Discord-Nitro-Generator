@@ -26,7 +26,6 @@
 | **Check** | ✅ | ✅ | ✅ |
 | **Check & Generate at the same time** | ⠀ | ✅ | ✅ |
 | **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
-| **Philips Hue status** | ⠀ | ⠀ | ✅ |
 
 - [Original](https://github.com/semmoolenschot/Discord-Nitro-Generator)
 - [1.0.1](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.1) (recommended using)
