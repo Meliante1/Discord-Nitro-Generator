@@ -26,7 +26,7 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#important">Important</a></li>
+    <li><a href="#important">No responsibility disclaimer</a></li>
   </ol>
 </details>
 
