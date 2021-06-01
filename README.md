@@ -102,8 +102,8 @@ Don't forget to leave a star ⭐
 - Make sure to have all modules installed by using ``pip3 install -r requirements.txt``
 - Run the ``main.py`` file by doing ``python3 main.py``
 
-
-This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
+### Python
+- This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
 ### Important
 - **I'm not responsible for any type of damage thats been caused by using my code**
