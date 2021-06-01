@@ -98,7 +98,7 @@ Don't forget to leave a star ⭐
 
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
       
-> Mac ⠀<img width="16" src="https://image.flaticon.com/icons/png/512/2/2235.png"> / Linux ⠀<img width="16" src="https://lh3.googleusercontent.com/proxy/VMN10djNhyIWTpWzaoiO4mgSxBGwujONKeYELlJ3mxvJLqw_wULHhjUZ65Rm-NKRsG2YIffpaZQE6YVR1Y6smQR9Np0Tf1n8A5b-94nkP6-hXKbOKN9DXWDc">
+> Mac ⠀<img width="16" src="https://image.flaticon.com/icons/png/512/2/2235.png"> / Linux ⠀<img width="16" src="https://user-images.githubusercontent.com/78478073/120348722-bab6f900-c2fd-11eb-818d-24a576875768.png">
 
 ### Important
 - **I'm not responsible for any type of damage thats been caused by using my code**
