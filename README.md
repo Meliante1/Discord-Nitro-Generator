@@ -78,7 +78,7 @@ Don't forget to leave a star ⭐
 
 ### Contact
 
-- <img width="16" src="https://i.redd.it/5zec9qw4ppy61.png"> [sem#4744](www.discord.gg)
-- <img width="16" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Github profile: https://github.com/semmoolenschot
+- <img width="16" src="https://i.redd.it/5zec9qw4ppy61.png"> [sem#4744](https://discord.com/)
+- <img width="16" src="https://image.flaticon.com/icons/png/512/25/25231.png"> [Github](https://github.com/semmoolenschot)
 
 
