@@ -23,7 +23,6 @@
       
 <details open="open">
   <summary>Table of Contents</summary>
-  <ol>
     <li>
     </li>
     <li>
