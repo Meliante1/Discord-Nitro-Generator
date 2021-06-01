@@ -16,11 +16,6 @@
 
 ---
 
-### Table of Contents
-- [Description](#description)
-- [How to use](#how-to-use)
-- [Contact](#contact)
-      
 <details open="open">
   <summary>Table of Contents</summary>
   </li>
