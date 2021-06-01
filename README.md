@@ -94,6 +94,7 @@ Please check out [versions](#versions) for more information/updates on features
 
 ### Disclaimer
 - **I'm not responsible for any type of damage thats been caused by using my code**
+- **This has been made for educational purposes and not to harm Discord or their users**
 
 ### Contact
 
