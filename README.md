@@ -98,7 +98,7 @@ Don't forget to leave a star ⭐
 
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
       
-> Mac <img width="16" src="https://image.flaticon.com/icons/png/512/2/2235.png">
+> Mac ⠀<img width="16" src="https://image.flaticon.com/icons/png/512/2/2235.png"> / Linux ⠀<img width="16" src="http://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png">
 
 ### Important
 - **I'm not responsible for any type of damage thats been caused by using my code**
