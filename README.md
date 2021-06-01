@@ -97,6 +97,12 @@ Please check out [versions](#versions) for more information/updates on features
 - **This has been made for educational purposes and not to harm Discord or their users**
 - **Use this at your own risk**
 
+```diff
+- I'm not responsible for any type of damage thats been caused by using my code
+- This has been made for educational purposes and not to harm Discord or their users
+- Use this at your own risk
+```
+
 ### Contact
 
 - <img width="16" src="https://i.redd.it/5zec9qw4ppy61.png"> [sem#4744](https://discord.com/)
