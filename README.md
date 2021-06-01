@@ -19,11 +19,9 @@
 <details open="open">
   <summary>Table of Contents</summary>
   </li>
-      <li><a href="#description">Description</a>
-      <ul>
-        <li><a href="#discord-nitro">Discord Nitro</a></li>
-        <li><a href="#how-it-works">How it works</a></li>
-      </ul>
+    <li><a href="#description">Description</a>
+    <li><a href="#discord-nitro">Discord Nitro</a></li>
+    <li><a href="#how-it-works">How it works</a></li>
     </li>
     <li><a href="#features">Features</a></li>
     <li><a href="#python">Python version</a></li>
