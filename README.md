@@ -88,7 +88,7 @@ Don't forget to leave a star ⭐
 - Automatically claim the valid code (**patched**)
 
 ### How to use
-> Windows <img width="16" src="https://www.mijncomputerhulp.nl/wp-content/uploads/2019/05/microsoft-windows-22-logo-png-transparent.png">
+> Windows ⠀<img width="16" src="https://www.mijncomputerhulp.nl/wp-content/uploads/2019/05/microsoft-windows-22-logo-png-transparent.png">
       
       
 - Run the ``main.py`` file using ``python3 main.py``
@@ -97,6 +97,8 @@ Don't forget to leave a star ⭐
 - Also make sure to have all modules installed by using ``pip3 install -r requirements.txt``
 
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
+      
+> Mac <img width="16" src="https://image.flaticon.com/icons/png/512/2/2235.png">
 
 ### Important
 - **I'm not responsible for any type of damage thats been caused by using my code**
