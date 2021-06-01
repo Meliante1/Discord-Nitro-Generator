@@ -25,8 +25,10 @@
         <li><a href="#how-it-works">How it works</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#python">Python version</a></li>
     <li><a href="#important">No responsibility disclaimer</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
