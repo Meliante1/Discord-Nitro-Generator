@@ -23,6 +23,14 @@
       
 <details open="open">
   <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#description">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
       <a href="#description">Description</a>
       <ul>
         <li><a href="#discord-nitro">Discord Nitro</a></li>
