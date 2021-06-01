@@ -100,8 +100,8 @@ Please check out [versions](#versions) for more information/updates on features
 - Use this at your own risk
 ```
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+<div class="text-white bg-red mb-2">
+  .text-white on .bg-red
 </div>
 
 ### Contact
