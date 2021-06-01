@@ -89,6 +89,8 @@ Please check out [versions](#versions) for more information/updates on features
 - Make sure to have all modules installed by using ``pip3 install -r requirements.txt``
 - Run the ``main.py`` file by doing ``python3 main.py``
 
+If you're using the [Original](https://github.com/semmoolenschot/Discord-Nitro-Generator) version then make sure to have ```codes.txt``` in your folder, otherwise it won't store codes. Versions above [1.0.1](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.1) do not store codes anymore.
+
 ### Python
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
