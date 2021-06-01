@@ -93,9 +93,6 @@ Please check out [versions](#versions) for more information/updates on features
 - This is coded in **python 3.9** which you can download [here](https://www.python.org/downloads/)
 
 ### Disclaimer
-- **I'm not responsible for any type of damage thats been caused by using my code**
-- **This has been made for educational purposes and not to harm Discord or their users**
-- **Use this at your own risk**
 
 ```diff
 - I'm not responsible for any type of damage thats been caused by using my code
