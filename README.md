@@ -88,7 +88,7 @@ Don't forget to leave a star ⭐
 - Automatically claim the valid code (**patched**)
 
 ### How to use
-| Windows
+> Windows
       
       
 - Run the ``main.py`` file using ``python3 main.py``
