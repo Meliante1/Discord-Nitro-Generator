@@ -36,7 +36,7 @@
 | **Generate** | ✅ | ✅ | ✅ |
 | **Check** | ✅ | ✅ | ✅ |
 | **Check & Generate at the same time** | ⠀ | ✅ | ✅ |
-| **Auto claim (PATCHED)** | ⠀ | ❌ | ⠀ |
+| **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
 | **Discord webhook** | ⠀ | ⠀ | ✅ |
 
 - [Original](https://github.com/semmoolenschot/Discord-Nitro-Generator)
