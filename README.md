@@ -78,7 +78,7 @@ Don't forget to leave a star ⭐
 
 ### Contact
 
-- <img width="16" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png"> Discord: sem#4744
+- <img width="16" src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png"> Discord: sem#4744
 - <img width="16" src="https://image.flaticon.com/icons/png/512/25/25231.png"> Github profile: https://github.com/semmoolenschot
 
 
