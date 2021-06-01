@@ -13,7 +13,7 @@
     ·
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
    <p align="center">
-    Generate Discord Nitro codes and check the validation
+    Don't forget to leave a star ⭐
     <br />
   
 
@@ -46,7 +46,6 @@
 - [1.0.1](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.1)
 - [1.0.2](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.2)
 
-Don't forget to leave a star ⭐
       
 
 
