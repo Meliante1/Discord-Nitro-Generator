@@ -94,14 +94,14 @@ Please check out [versions](#versions) for more information/updates on features
 > Windows ⠀<img width="16" src="https://www.mijncomputerhulp.nl/wp-content/uploads/2019/05/microsoft-windows-22-logo-png-transparent.png">
 
 - Open your command prompt
-- Change Directories
+- Change directories to the downloaded folder
 - Make sure to have all modules installed by using ``pip install -r requirements.txt``
 - Run the ``main.py`` file by doing ``python main.py``
       
 > Mac ⠀<img width="16" src="https://image.flaticon.com/icons/png/512/2/2235.png"> / Linux ⠀<img width="16" src="https://user-images.githubusercontent.com/78478073/120348722-bab6f900-c2fd-11eb-818d-24a576875768.png">
       
 - Open your terminal
-- Change Directories
+- Change directories to the downloaded folder
 - Make sure to have all modules installed by using ``pip3 install -r requirements.txt``
 - Run the ``main.py`` file by doing ``python3 main.py``
 
