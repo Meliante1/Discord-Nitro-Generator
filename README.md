@@ -13,7 +13,7 @@
     ·
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Request Feature</a>
    <p align="center">
-    **Don't forget to leave a star ⭐**
+    Don't forget to leave a star ⭐
     <br />
   
 
