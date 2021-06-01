@@ -88,7 +88,9 @@ Don't forget to leave a star ⭐
 - Automatically claim the valid code (**patched**)
 
 ### How to use
-
+| Windows
+      
+      
 - Run the ``main.py`` file using ``python3 main.py``
 - Once done you will get a menu with multiple options such as *generate, check or reset*
 
