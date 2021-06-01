@@ -1,4 +1,4 @@
-<h1 align="center">Discord Nitro Generator</h3>
+<img width="1200" height="600" alt="Screenshot 2021-04-18 at 19 06 39" src="https://user-images.githubusercontent.com/78478073/120324269-b92e0680-c2e6-11eb-87ca-8f4d7f174fae.JPG">
 
   <p align="center">
     Generate Discord Nitro codes and check the validation
