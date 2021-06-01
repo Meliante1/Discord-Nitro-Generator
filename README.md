@@ -15,7 +15,7 @@
   
 
 ---
-Don't forget to leave a star ⭐
+**Don't forget to leave a star ⭐**
       
       
 <details open="open">
@@ -46,7 +46,6 @@ Don't forget to leave a star ⭐
 - [1.0.2](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.2)
 - Currently working on 1.0.3 🛠️
 
-Don't forget to leave a star ⭐
 
 
 # Description
