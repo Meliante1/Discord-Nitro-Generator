@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" height="150" alt="Screenshot 2021-04-18 at 19 06 39" src="https://user-images.githubusercontent.com/78478073/120325661-2bebb180-c2e8-11eb-9a08-8ead7fc9b042.JPG">
+<img width="600" height="300" alt="Screenshot 2021-04-18 at 19 06 39" src="https://user-images.githubusercontent.com/78478073/120325661-2bebb180-c2e8-11eb-9a08-8ead7fc9b042.JPG">
 </p>
   <p align="center">
     Generate Discord Nitro codes and check the validation
