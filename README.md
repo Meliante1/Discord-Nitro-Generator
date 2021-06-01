@@ -76,7 +76,7 @@ Don't forget to leave a star ⭐
 
 ### How it works
 
-- This code generate codes in a loop and checks them by using [requests](https://pypi.org/project/requests/) to get a response from ```https://discordapp.com/api/v6/entitlements/gift-codes/___________________?with_application=false&with_subscription_plan=true```
+- This code generate codes in a loop and checks them by using [requests](https://pypi.org/project/requests/) to get a response from ```https://discordapp.com/api/v6/entitlements/gift-codes/___________________?with_application=false&with_subscription_plan=true```. With that response we can see whether the code is valid or not. If the code is valid it will break the loop and send the code to a webhook (if given), but if the code is invalid then it will continue generating and checking.
 
 
 <img width="572" alt="Screenshot 2021-04-18 at 19 06 39" src="https://user-images.githubusercontent.com/78478073/115154085-573c7900-a079-11eb-9c96-18ecddd5fffa.png">
