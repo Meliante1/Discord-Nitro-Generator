@@ -79,6 +79,6 @@ Don't forget to leave a star ⭐
 ### Contact
 
 - <img width="16" src="https://i.redd.it/5zec9qw4ppy61.png"> [sem#4744](https://discord.com/)
-- <img width="16" src="https://pngimg.com/uploads/github/github_PNG72.png"> [Github](https://github.com/semmoolenschot)
+- <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"> [Github](https://github.com/semmoolenschot)
 
 
