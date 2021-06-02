@@ -7,7 +7,7 @@
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator"><strong>Explore»</strong></a
     <br />
       ·
-      <a href="https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.1"><strong> Latest version»</strong></a>
+      <a href="https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.2"><strong> Latest version»</strong></a>
     <br />
     <a href="https://github.com/semmoolenschot/Discord-Nitro-generator/issues">Report Bug</a>
     ·
