@@ -56,7 +56,7 @@ class LinkGen:
         print('')
 
         while(int(count)<int(self.generate)):
-            generated = "https://discord.gift/"+random.choice(string.ascii_letters + string.digits)+"".join(random.choice(string.ascii_letters + string.digits) for _ in range(18))
+            generated = "https://discord.gift/"+random.choice(string.ascii_letters + string.digits)+"".join(random.choice(string.ascii_letters + string.digits) for _ in range(15))
             f= open(self.current_path+"/"+str("codes")+str("")+".txt","a")
             f.write(generated[21:]+"\n")
             print(f'[{self.HEADER}Generated{self.ENDC}]{self.OKGREEN} >{self.ENDC} ' + generated)
