@@ -40,7 +40,7 @@
 | **Check & Generate at the same time** | ⠀ | ✅ | ✅ | 🛠️ |
 | **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ | ❌ |
 | **Discord webhook** | ⠀ | ⠀ | ✅ | 🛠️ |
-| **Use proxies** | ⠀ | ⠀ | ⠀ | 🛠️ |
+| **Proxies** | ⠀ | ⠀ | ⠀ | 🛠️ |
 | **Built-in proxy scraper** | ⠀ | ⠀ | ⠀ | 🛠️ |
 | **Built-in proxy checker** | ⠀ | ⠀ | ⠀ | 🛠️ |
 
