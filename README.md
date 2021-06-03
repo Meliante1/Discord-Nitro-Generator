@@ -74,7 +74,7 @@
 - Generate possible Nitro codes
 - Check the validation of the generated codes
 - Send valid codes in a Discord webhook
-- Automatically claim the valid code <li><a href="#versions">patched</a></li>
+- Automatically claim the valid code [patched](#versions)
 
 Please check out [versions](#versions) for more information/updates on features
 
