@@ -33,13 +33,13 @@
 </details>
 
 ### Versions
-|⠀| Original | 1.0.1 | 1.0.2 |
-| --------- | ----- | ----- | ----- |
-| **Generate** | ✅ | ✅ | ✅ |
-| **Check** | ✅ | ✅ | ✅ |
-| **Check & Generate at the same time** | ⠀ | ✅ | ✅ |
-| **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ |
-| **Discord webhook** | ⠀ | ⠀ | ✅ |
+|⠀| Original | 1.0.1 | 1.0.2 | 1.0.3 |
+| --------- | ----- | ----- | ----- | ----- |
+| **Generate** | ✅ | ✅ | ✅ | ⠀ |
+| **Check** | ✅ | ✅ | ✅ | ⠀ |
+| **Check & Generate at the same time** | ⠀ | ✅ | ✅ | ⠀ |
+| **Auto claim (PATCHED)** | ⠀ | ❌ | ❌ | ⠀ |
+| **Discord webhook** | ⠀ | ⠀ | ✅ | ⠀ |
 
 - [Original](https://github.com/semmoolenschot/Discord-Nitro-Generator)
 - [1.0.1](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.1)
