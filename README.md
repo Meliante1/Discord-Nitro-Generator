@@ -100,11 +100,12 @@ If you're using the [original](https://github.com/semmoolenschot/Discord-Nitro-G
 
 ### Disclaimer
 
-```diff
+
 - I'm not responsible for any type of damage thats been caused by using my code
 - This has been made for educational purposes and not to harm Discord or their users
 - Use this at your own risk
-```
+- I don't support using it
+
 
 ### Contact
 
