@@ -42,7 +42,7 @@
 | **Discord webhook** | ⠀ | ⠀ | ✅ | ✅ |
 | **Proxies** | ⠀ | ⠀ | ⠀ | ✅ |
 | **Built-in proxy scraper** | ⠀ | ⠀ | ⠀ | ✅ |
-| **Built-in proxy checker** | ⠀ | ⠀ | ⠀ | ✅ |
+| **Built-in proxy checker** | ⠀ | ⠀ | ⠀ | ⠀ |
 
 - [Original](https://github.com/semmoolenschot/Discord-Nitro-Generator)
 - [1.0.1](https://github.com/semmoolenschot/Discord-Nitro-Generator/releases/tag/1.0.1)
